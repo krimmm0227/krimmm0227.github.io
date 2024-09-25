@@ -9,7 +9,7 @@ body {
 
 nav {
   Line-height: 30px;
-  background-color: #8e472f;
+  background-color: #a37a52;
   color: #ffe0e0;
   float: left;
   padding: 5px;
@@ -40,7 +40,7 @@ section {
 }
 
 header {
-  background-color: #c07562;
+  background-color: #C4A27F;
   color: #a2422a;
   text-align: center;
   padding: 20px 0px;
@@ -58,13 +58,13 @@ form {
 img {
   height: 60%;
   width: 30%;
-  border: 5px solid #7a3929;
+  border: 5px solid #C4A27F;
   border-radius: 7px;
   object-fit: cover;
 }
 
 footer {
-  background-color: #c07562;
+  background-color: #C4A27F;
   color: #a2422a;
   text-align: center;
   width: 100%;
